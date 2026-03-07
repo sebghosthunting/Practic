@@ -1,0 +1,41 @@
+/* About me - Begin */
+.title-main {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-style: bold;
+    color: #03627E;
+}
+
+.title-secondary {
+    font-family: 'Montserrat';
+    font-weight: 350;
+    font-style: normal;
+    color: #36445D;
+}
+
+.title-section {
+    font-family: 'Montserrat';
+    font-weight: 350;
+    font-style: normal;
+    color:#DC8079;
+}
+
+aside {
+    background-color: #B3EBF2;
+    height: 100%;
+    padding-left: 7%;
+}
+
+.photo-profile {
+    border-radius: 50%;
+    object-fit: cover;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+
+}
+
+
+/* About me - End */
